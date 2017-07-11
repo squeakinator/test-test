@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject
+  Version="1"
+  xml:lang="en-us"
+  SourceControlBound="false"
+  Comment="This template contains several starter topics and other files intended for online HTML5 output with top navigation like a modern website, instead of the more traditional tripane format. It is a simpler version of the Top Navigation Advanced template. Although it is a basic template, the content and files have been designed to maximize single-sourcing capabilities. This template starts you out with two HTML5 targets. Responsive output is automatically enabled with this type of output. This means the content display changes automatically depending on the width of the screen. You can add other kinds of targets and skins if you like."
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  MasterStylesheetOverride="True"
+  IncludePattern="*.htm;*.html"
+  AutoExcludeNonTaggedFiles="false"
+  IncludeLinkedFiles="false"
+  DeleteStale="false"
+  DeleteUnreferenced="false"
+  AutoSync="true"
+  LastImport="2017-07-11T06:54:58.8774709-07:00">
+  <Files>
+    <Url
+      Source="file:///D:/Bugs Ext/TESTING/test font/test font.flprj"
+      AbsoluteSource="file:///D:/Bugs Ext/TESTING/test font/test font.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../test font/Content/TitlePage.htm"
+      AbsoluteSource="file:///D:/Bugs Ext/TESTING/test font/Content/TitlePage.htm" />
+    <Url
+      Source="../test font/Content/A_Introduction Topics/MoreInformation.htm"
+      AbsoluteSource="file:///D:/Bugs Ext/TESTING/test font/Content/A_Introduction Topics/MoreInformation.htm" />
+    <Url
+      Source="../test font/Content/A_Introduction Topics/Welcome.htm"
+      AbsoluteSource="file:///D:/Bugs Ext/TESTING/test font/Content/A_Introduction Topics/Welcome.htm" />
+    <Url
+      Source="../test font/Content/A_Introduction Topics/WhatsNew.htm"
+      AbsoluteSource="file:///D:/Bugs Ext/TESTING/test font/Content/A_Introduction Topics/WhatsNew.htm" />
+    <Url
+      Source="../test font/Content/B_Feature Topics/Feature1.htm"
+      AbsoluteSource="file:///D:/Bugs Ext/TESTING/test font/Content/B_Feature Topics/Feature1.htm" />
+    <Url
+      Source="../test font/Content/B_Feature Topics/Feature2.htm"
+      AbsoluteSource="file:///D:/Bugs Ext/TESTING/test font/Content/B_Feature Topics/Feature2.htm" />
+    <Url
+      Source="../test font/Content/B_Feature Topics/Feature3.htm"
+      AbsoluteSource="file:///D:/Bugs Ext/TESTING/test font/Content/B_Feature Topics/Feature3.htm" />
+    <Url
+      Source="../test font/Content/B_Feature Topics/Features.htm"
+      AbsoluteSource="file:///D:/Bugs Ext/TESTING/test font/Content/B_Feature Topics/Features.htm" />
+    <Url
+      Source="../test font/Content/C_Procedure Topics/Procedure1.htm"
+      AbsoluteSource="file:///D:/Bugs Ext/TESTING/test font/Content/C_Procedure Topics/Procedure1.htm" />
+    <Url
+      Source="../test font/Content/C_Procedure Topics/Procedure2.htm"
+      AbsoluteSource="file:///D:/Bugs Ext/TESTING/test font/Content/C_Procedure Topics/Procedure2.htm" />
+    <Url
+      Source="../test font/Content/C_Procedure Topics/Procedure3.htm"
+      AbsoluteSource="file:///D:/Bugs Ext/TESTING/test font/Content/C_Procedure Topics/Procedure3.htm" />
+    <Url
+      Source="../test font/Content/C_Procedure Topics/Procedures.htm"
+      AbsoluteSource="file:///D:/Bugs Ext/TESTING/test font/Content/C_Procedure Topics/Procedures.htm" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="Content/TitlePage.htm"
+      TimeStamp="5/23/2017 6:12:34 PM" />
+    <Url
+      Source="Content/A_Introduction Topics/MoreInformation.htm"
+      TimeStamp="7/6/2017 6:30:50 AM" />
+    <Url
+      Source="Content/A_Introduction Topics/Welcome.htm"
+      TimeStamp="5/23/2017 6:12:34 PM" />
+    <Url
+      Source="Content/A_Introduction Topics/WhatsNew.htm"
+      TimeStamp="5/23/2017 6:12:34 PM" />
+    <Url
+      Source="Content/B_Feature Topics/Feature1.htm"
+      TimeStamp="5/23/2017 6:12:34 PM" />
+    <Url
+      Source="Content/B_Feature Topics/Feature2.htm"
+      TimeStamp="5/23/2017 6:12:34 PM" />
+    <Url
+      Source="Content/B_Feature Topics/Feature3.htm"
+      TimeStamp="5/23/2017 6:12:34 PM" />
+    <Url
+      Source="Content/B_Feature Topics/Features.htm"
+      TimeStamp="5/23/2017 6:12:34 PM" />
+    <Url
+      Source="Content/C_Procedure Topics/Procedure1.htm"
+      TimeStamp="5/23/2017 6:12:34 PM" />
+    <Url
+      Source="Content/C_Procedure Topics/Procedure2.htm"
+      TimeStamp="5/23/2017 6:12:34 PM" />
+    <Url
+      Source="Content/C_Procedure Topics/Procedure3.htm"
+      TimeStamp="5/23/2017 6:12:34 PM" />
+    <Url
+      Source="Content/C_Procedure Topics/Procedures.htm"
+      TimeStamp="5/23/2017 6:12:34 PM" />
+  </GeneratedFiles>
+</CatapultProject>
